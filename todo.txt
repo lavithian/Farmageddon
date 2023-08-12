@@ -1,0 +1,29 @@
+Get Sprites
+  Cow
+  Player
+  Meteorite
+  Grass tile
+  Fence
+    Fence post
+    Fence wall
+
+Make a tile map
+
+Make Player Move with WASD/Arrow keys
+Make Player not go out of bounds
+Make Player spawn Fence
+Make Player collide with Fence
+
+Make cow move
+Make cow collide with fence
+Make cow despawn when out of window
+Make cow breed
+
+Make Meteorite
+Make Meteorite kill cows
+Make Meteorite destroy fences
+Make Meteorite destroy Grass
+
+Make Land disappear
+Make Player die when touching Hole
+Make Cows die when touching Hole

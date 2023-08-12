@@ -1,0 +1,39 @@
+Cows, when together, gives birth to another cow.
+Cows generate money.
+Land begins to fall apart.
+Meteorites fall from the sky.
+Build fences to keep cows from moving
+Repair the floor to regain land.
+
+Things to do:
+
+Player
+  Move with WASD/Arrow keys
+  Can spawn fences
+  Can spawn land
+  Can fall and die
+  Can be hit by a meteorite and die
+  Can push cows
+
+Cow
+  Move randomly
+  When two meet, spawns a new cow (timer)
+  Can be pushed by the player
+
+Land
+  Gets destroyed every few seconds
+  Can be built
+  Can kill Player
+  Can kill cows
+  Can destroy fences
+
+Meteorite
+  Falls from the sky
+  Can destroy fences
+  Can kill cows
+  Can kill player
+  Show shadow before falling
+
+Collison - push, fence
+land deconstruction
+sprite sheet usage
